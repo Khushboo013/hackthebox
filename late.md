@@ -1,116 +1,127 @@
-<h1>Late</h1>
+#late
+ 
 
-
-<img src="media/image1.png" style="width:5.21667in;height:2.025in" />
+![](media/image1.png){width="5.216666666666667in" height="2.025in"}
 
  
 
-<img src="media/image2.jpeg" style="width:5.14167in;height:2.06667in" />
+![](media/image2.jpeg){width="5.141666666666667in"
+height="2.066666666666667in"}
 
  
 
-@TODO: replace by link/instructions in template
+\@TODO: replace by link/instructions in template
 
  
 
-<img src="media/image3.png" style="width:5.34167in;height:2in" />
+![](media/image3.png){width="5.341666666666667in" height="2.0in"}
 
  
 
-<img src="media/image4.png" style="width:6.28333in;height:3.025in" />
+![](media/image4.png){width="6.283333333333333in" height="3.025in"}
 
  
 
-<img src="media/image5.png" style="width:5.04167in;height:0.59167in" />
+![](media/image5.png){width="5.041666666666667in"
+height="0.5916666666666667in"}
 
  
 
-<img src="media/image6.png" style="width:2.96667in;height:0.59167in" />
+![](media/image6.png){width="2.966666666666667in"
+height="0.5916666666666667in"}
 
  
 
-<img src="media/image7.png" style="width:4.43333in;height:1in" />
+![](media/image7.png){width="4.433333333333334in" height="1.0in"}
 
  
 
-<img src="media/image8.png" style="width:6.25833in;height:2.31667in" />
+![](media/image8.png){width="6.258333333333334in"
+height="2.316666666666667in"}
 
  
 
-<img src="media/image9.png" style="width:0.81667in;height:0.99167in" />
+![](media/image9.png){width="0.8166666666666667in"
+height="0.9916666666666667in"}
 
 screenshot this image ad save as late.jpg
 
  
 
-<img src="media/image10.png" style="width:6.56667in;height:1.45in" />
+![](media/image10.png){width="6.566666666666666in" height="1.45in"}
 
  
 
-<img src="media/image11.png" style="width:1.625in;height:2.16667in" />
+![](media/image11.png){width="1.625in" height="2.1666666666666665in"}
 
 given result
 
  
 
-<img src="media/image12.png" style="width:6.625in;height:2.38333in" />
+![](media/image12.png){width="6.625in" height="2.3833333333333333in"}
 
 save as shell.jpg
 
  
 
-<img src="media/image13.png" style="width:6.625in;height:1.11667in" />
+![](media/image13.png){width="6.625in" height="1.1166666666666667in"}
 
  
 
  
 
-<img src="media/image14.png" style="width:6.68333in;height:4.16667in" />
+![](media/image14.png){width="6.683333333333334in"
+height="4.166666666666667in"}
 
  
 
-<img src="media/image15.png" style="width:6.70833in;height:1.71667in" />
+![](media/image15.png){width="6.708333333333333in"
+height="1.7166666666666666in"}
 
  
 
-<img src="media/image16.png" style="width:6.59167in;height:2.73333in" />
+![](media/image16.png){width="6.591666666666667in"
+height="2.7333333333333334in"}
 
  
 
-<img src="media/image17.png" style="width:6.58333in;height:4.375in" />
+![](media/image17.png){width="6.583333333333333in" height="4.375in"}
 
  
 
-<img src="media/image18.png" style="width:6.63333in;height:3.41667in" />
+![](media/image18.png){width="6.633333333333334in"
+height="3.4166666666666665in"}
 
  
 
-<img src="media/image19.png" style="width:4.45833in;height:1.325in" />
+![](media/image19.png){width="4.458333333333333in" height="1.325in"}
 
  
 
-<img src="media/image20.png" style="width:6.04167in;height:1.23333in" />
+![](media/image20.png){width="6.041666666666667in"
+height="1.2333333333333334in"}
 
  
 
-<img src="media/image21.png" style="width:2.2in;height:0.44167in" />
+![](media/image21.png){width="2.2in" height="0.44166666666666665in"}
 
  
 
-<img src="media/image22.png" style="width:6.625in;height:1.86667in" />
+![](media/image22.png){width="6.625in" height="1.8666666666666667in"}
 
  
 
-<img src="media/image23.png" style="width:6.66667in;height:3.925in" />
+![](media/image23.png){width="6.666666666666667in" height="3.925in"}
 
 to activate exit
 
 and then login
 
-<img src="media/image24.png" style="width:5.08333in;height:1.43333in" />
+![](media/image24.png){width="5.083333333333333in"
+height="1.4333333333333333in"}
 
  
 
-<img src="media/image25.png" style="width:6.45in;height:1.45833in" />
+![](media/image25.png){width="6.45in" height="1.4583333333333333in"}
 
  
