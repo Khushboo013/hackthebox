@@ -1,4 +1,4 @@
-<h1>paper</h1>
+<h1>Paper</h1>
 
 
 <img src="paper/media/image1.png"
