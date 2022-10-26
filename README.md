@@ -8,4 +8,5 @@
 <li><a href="https://khushboo013.github.io/hackthebox/trick">Trick</a></li>
 <li><a href="https://khushboo013.github.io/hackthebox/noter">Noter</a></li>
 <li><a href="https://khushboo013.github.io/hackthebox/faculty">Faculty</a></li>
+<li><a href="https://khushboo013.github.io/hackthebox/redpanda">Red Panda</a></li>
 </ul>

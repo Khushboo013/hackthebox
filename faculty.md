@@ -1,10 +1,7 @@
 # Faculty
 
 08 August 2022
-
 01:15 PM
-
- 
 
 <img src="faculty/media/image1.png"
 style="width:7.23333in;height:3.13333in" />
