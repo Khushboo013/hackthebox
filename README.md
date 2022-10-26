@@ -1,4 +1,4 @@
-# hackthebox Writeups
+# Hackthebox Writeups
 
 <ul>
 <li><a href="https://khushboo013.github.io/hackthebox/late">Late</a></li>
