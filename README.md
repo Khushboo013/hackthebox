@@ -7,4 +7,5 @@
 <li><a href="https://khushboo013.github.io/hackthebox/undetected">Undetected</a></li>
 <li><a href="https://khushboo013.github.io/hackthebox/trick">Trick</a></li>
 <li><a href="https://khushboo013.github.io/hackthebox/noter">Noter</a></li>
+<li><a href="https://khushboo013.github.io/hackthebox/faculty">Faculty</a></li>
 </ul>
