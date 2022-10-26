@@ -1,5 +1,6 @@
 # Hackthebox Writeups
 
+<script src= "https://www.hackthebox.eu/badge/896935" > </script>
 <ul>
 <li><a href="https://khushboo013.github.io/hackthebox/late">Late</a></li>
 <li><a href="https://khushboo013.github.io/hackthebox/paper">Paper</a></li>
